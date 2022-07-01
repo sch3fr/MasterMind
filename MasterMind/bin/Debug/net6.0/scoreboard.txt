@@ -1,0 +1,6 @@
+Fanda;3;
+Máma;4;
+Petr;5;
+Paleček;6;
+Ondra;7;
+Matouš;9;
