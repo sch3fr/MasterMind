@@ -1,0 +1,15 @@
+C:\Users\sch3f\Repos\GitHub\MasterMind\MasterMind\bin\Debug\net6.0\MasterMind.exe
+C:\Users\sch3f\Repos\GitHub\MasterMind\MasterMind\bin\Debug\net6.0\MasterMind.deps.json
+C:\Users\sch3f\Repos\GitHub\MasterMind\MasterMind\bin\Debug\net6.0\MasterMind.runtimeconfig.json
+C:\Users\sch3f\Repos\GitHub\MasterMind\MasterMind\bin\Debug\net6.0\MasterMind.dll
+C:\Users\sch3f\Repos\GitHub\MasterMind\MasterMind\bin\Debug\net6.0\MasterMind.pdb
+C:\Users\sch3f\Repos\GitHub\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.csproj.AssemblyReference.cache
+C:\Users\sch3f\Repos\GitHub\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sch3f\Repos\GitHub\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.AssemblyInfoInputs.cache
+C:\Users\sch3f\Repos\GitHub\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.AssemblyInfo.cs
+C:\Users\sch3f\Repos\GitHub\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\sch3f\Repos\GitHub\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.dll
+C:\Users\sch3f\Repos\GitHub\MasterMind\MasterMind\obj\Debug\net6.0\refint\MasterMind.dll
+C:\Users\sch3f\Repos\GitHub\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.pdb
+C:\Users\sch3f\Repos\GitHub\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.genruntimeconfig.cache
+C:\Users\sch3f\Repos\GitHub\MasterMind\MasterMind\obj\Debug\net6.0\ref\MasterMind.dll
